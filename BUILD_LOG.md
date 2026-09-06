@@ -130,4 +130,29 @@ Overall: all Horizontal Stabilizer parts are in excellent condition and ready to
 
 ---
 
+### 2026-09-06 — Horizontal Stabilizer skin preparation
+
+**Section:** Horizontal Stabilizer — Skin Preparation
+**Time Spent:** 1 evening session
+**Builder:** Peter
+
+**Work Performed:**
+
+**Protective Film Removal (Rivet Line Areas)**
+Used a soldering iron to score and cut strips in the protective plastic film along the rivet hole lines. Strips were then peeled away, exposing the rivet hole areas while leaving the remaining film in place to protect the rest of the skin surface.
+
+**Rivet Line Cleaning**
+Cleaned all exposed rivet hole lines using maroon Scotchbrite pads with WD-40. Light corrosion was present in places along the skin edges and around some rivet holes, consistent with moisture ingress beneath the protective film over time. All affected areas cleaned back to bare metal — now looking as new.
+
+**Previous Owner Primer Removal**
+The original kit owner had applied primer to the inside faces of the skins. This was removed using acetone and paper towels. Skins will be correctly primed with Stewart Systems EcoPrime immediately prior to final assembly.
+
+**Current Status:** Skins clean, corrosion-free, and ready for further preparation. EcoPrime priming to be completed just before final assembly.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._

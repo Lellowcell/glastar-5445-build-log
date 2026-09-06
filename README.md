@@ -57,7 +57,7 @@ Each entry records:
 | Pre-Build / Setup | ✅ Complete |
 | Practice Kit (Vans Aircraft) | ⏸ Paused — awaiting rivet squeezer part (~20 Oct) |
 | Section III — Rudder Assembly | ⏸ Paused — parts inspected; yoke restored; awaiting replacement aft spar |
-| Horizontal Stabilizer | 🔧 In Progress — initial inspection complete, all parts pristine |
+| Horizontal Stabilizer | 🔧 In Progress — skins cleaned and prepped |
 
 ---
 
