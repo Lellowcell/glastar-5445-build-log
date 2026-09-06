@@ -44,4 +44,24 @@ Each entry records a build session. Entries include:
 
 ---
 
+### 2026-06 to 2026-09-06
+
+**Section:** Pre-Build / Practice Kit (Vans Aircraft)
+**Time Spent:** Multiple sessions
+**Builder:** Peter
+
+**Work Performed:**
+- Test fitted all practice kit components.
+- Deburred all parts.
+- Primed all parts using Stewart Systems EcoPrime waterborne primer.
+- Back riveted skin stiffeners to skin.
+
+**Current Status:** Work paused pending parts. Pneumatic rivet squeezer requires a replacement part (~$10), currently on order. Expected arrival approximately 20 October 2026. Will resume riveting once part arrives.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._

@@ -55,7 +55,7 @@ Each entry records:
 | Section | Status |
 |---|---|
 | Pre-Build / Setup | ✅ Complete |
-| Practice Kit (Vans Aircraft) | 🔧 In Progress |
+| Practice Kit (Vans Aircraft) | ⏸ Paused — awaiting rivet squeezer part (~20 Oct) |
 | Section III — Rudder Assembly | ⏳ Upcoming |
 
 ---
