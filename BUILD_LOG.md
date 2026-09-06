@@ -64,4 +64,44 @@ Each entry records a build session. Entries include:
 
 ---
 
+### 2026-09-06
+
+**Section:** Section III — Rudder Assembly (Inspection & Remediation)
+**Time Spent:** Multiple sessions
+**Builder:** Peter
+
+**Work Performed:**
+
+**Rudder Parts Inspection**
+Located and examined all rudder parts. The rudder is Section III of the build manual — the first assembly tackled — and the previous kit owner (Kit #5445) had made a start. He had assembled the components and match drilled all spar and rib flanges using the factory holes as guides. The parts were then left on the bench for approximately 20 years.
+
+**Chrome Moly Yoke Weldment — Restoration**
+The rudder yoke weldment (chrome moly steel) was badly rusted beneath its original powder coating after two decades of exposure. Remediation steps:
+- Stripped all powder coating from the weldment.
+- Soaked in Evapo-Rust bath for approximately 24 hours to remove rust.
+- Primed with 2K Epoxy Primer.
+- Top coated with 2K Epoxy Top Coat.
+- Replaced the small ball bearing in the bottom of the yoke.
+
+The weldment is now in excellent condition.
+
+**Spars and Ribs — Inspection**
+All rudder spars and ribs inspected. With the exception of the aft rudder spar (see below), all parts are in acceptable condition and will be usable.
+
+**Aft Rudder Spar — Replacement Required**
+The aft rudder spar cannot be used. The previous builder failed to align the centreline marked on the flanges with the factory holes in the rudder skin before drilling. The holes were drilled significantly off the correct line, rendering the part unairworthy. The part cannot be corrected — replacement is required.
+
+Sourcing:
+- Contacted Glasair Aviation — no result.
+- Posted on Glasair Owners forums — no result.
+- Engaged a GA repair/fabrication shop in Sydney to manufacture a replacement spar. Part fabrication arranged.
+
+**Current Status:** Awaiting delivery of the fabricated aft rudder spar replacement. All other rudder parts ready to proceed once spar is in hand.
+
+**Assistance Received:** None — all inspection and restoration work performed by builder. Aft rudder spar replacement to be manufactured by a GA repair shop (noted as outside fabrication; builder will perform all assembly).
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
