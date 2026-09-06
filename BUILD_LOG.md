@@ -104,4 +104,30 @@ Sourcing:
 
 ---
 
+### 2026-09-06 — Horizontal Stabilizer commencement
+
+**Section:** Horizontal Stabilizer — Initial Inspection
+**Time Spent:** —
+**Builder:** Peter
+
+**Decision: Horizontal Stabilizer First**
+Following advice from experienced builders on the forums, elected to commence the Horizontal Stabilizer assembly before returning to the Rudder. Although larger, the Horizontal Stabilizer is less complex than the Rudder and considered a better first assembly to develop technique. The Rudder parts have been stored safely while awaiting the fabricated aft spar replacement and the rivet squeezer part.
+
+**Horizontal Stabilizer Parts Inspection**
+All Horizontal Stabilizer parts located and closely inspected. Findings:
+- All parts in pristine condition.
+- Most components still sealed in original factory blister packs.
+- Spars never removed from their original packaging.
+- Skins showed some edge deterioration, however the factory protective plastic film is still intact and peels cleanly when warmed with a heat gun.
+
+Overall: all Horizontal Stabilizer parts are in excellent condition and ready to proceed.
+
+**Current Status:** Horizontal Stabilizer inspection complete. All parts accounted for and serviceable. Ready to commence prep work.
+
+**Assistance Received:** None — all inspection performed by builder.
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
