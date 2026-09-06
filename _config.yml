@@ -1,0 +1,21 @@
+title: "Glastar #5445 Build Log"
+description: "Builder's log for Stoddard-Hamilton Glastar Kit #5445 — Peter Lovenfosse, Asquith NSW"
+author: "Peter Lovenfosse"
+
+theme: minima
+
+minima:
+  skin: classic
+
+# Site navigation
+header_pages:
+  - README.md
+  - BUILD_LOG.md
+
+# Footer links
+footer_links:
+  - name: GitHub
+    url: https://github.com/Lellowcell/glastar-5445-build-log
+
+plugins:
+  - jekyll-feed
