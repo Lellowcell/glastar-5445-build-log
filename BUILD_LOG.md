@@ -76,9 +76,10 @@ Each entry records a build session. Entries include:
 Located and examined all rudder parts. The rudder is Section III of the build manual — the first assembly tackled — and the previous kit owner (Kit #5445) had made a start. He had assembled the components and match drilled all spar and rib flanges using the factory holes as guides. The parts were then left on the bench for approximately 20 years.
 
 **Chrome Moly Yoke Weldment — Restoration**
-The rudder yoke weldment (chrome moly steel) was badly rusted beneath its original powder coating after two decades of exposure. Remediation steps:
+The rudder yoke weldment (chrome moly steel) had powder coating lifting along the edges of the attachment flange. Moisture had penetrated beneath the powder coating in this area, causing very light surface rust. All powder coating was stripped from the weldment and it was soaked in an Evapo-Rust bath for approximately 24 hours. Close inspection after treatment confirmed no pitting — the metal surface was in excellent condition beneath the rust. Remediation steps:
 - Stripped all powder coating from the weldment.
-- Soaked in Evapo-Rust bath for approximately 24 hours to remove rust.
+- Soaked in Evapo-Rust bath for approximately 24 hours.
+- Close inspection confirmed very light surface rust only — no pitting.
 - Primed with 2K Epoxy Primer.
 - Top coated with 2K Epoxy Top Coat.
 - Replaced the small ball bearing in the bottom of the yoke.
