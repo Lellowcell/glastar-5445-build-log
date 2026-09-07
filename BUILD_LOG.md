@@ -156,4 +156,43 @@ The original kit owner had applied primer to the inside faces of the skins. This
 
 ---
 
+### 2026-09-07 — Horizontal Stabilizer skin storage & rib unpack
+
+**Section:** Horizontal Stabilizer — Parts Preparation
+**Time Spent:** 11:00–13:00 (2 hours)
+**Builder:** Peter
+
+**Work Performed:**
+
+**Horizontal Stabilizer Skins — Finalised and Stored**
+Completed cleanup of the Horizontal Stabilizer skins. Skins are now clean, corrosion-free and stored safely, ready for priming immediately prior to final assembly.
+
+**Horizontal Stabilizer Ribs — Unpacked**
+Removed all Horizontal Stabilizer ribs from their blister packs. All ribs inspected visually and look to be in excellent condition. Next step is to verify each rib is flat and that the flanges are square to the webs before proceeding to prep work.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Photos:** —
+
+---
+
+### 2026-09-07 — Equipment received
+
+**Section:** Workshop / Equipment
+**Time Spent:** —
+**Builder:** Peter
+
+**Equipment Received:**
+
+- **Camera:** Kogan 4K Dual Touchscreen 21m Waterproof Action Camera — to be used for documenting the build. Time-lapse recording will provide condensed video coverage of each build session.
+- **Cleco Clamps:** 150× additional 3/32" Cleco clamps received, significantly expanding available stock.
+- **Side Cleco Grip Clamps:** 6× side Cleco grip clamps received.
+- **Pin Punches:** 3× imperial pin punches received in sizes 3/32", 1/8" and 3/16" — as specified in the Glastar build manual for rivet removal.
+
+**Notes:** —
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
