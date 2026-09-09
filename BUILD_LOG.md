@@ -252,4 +252,32 @@ All holes in all Horizontal Stabilizer ribs deburred. Deburring removes the shar
 
 ---
 
+### 2026-09-09 — Horizontal Stabilizer ribs: large holes and lightening holes deburred
+
+**Section:** Horizontal Stabilizer — Parts Preparation  
+**Time Spent:** 18:00–19:15 (1 hour 15 minutes)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Large Hole and Lightening Hole Deburring**  
+Deburred the large drill holes and lightening holes in all Horizontal Stabilizer ribs. The lightening holes are the large circular cutouts in each rib web — they reduce weight while maintaining structural integrity. The edges of these holes require deburring just as the smaller rivet holes do: any raised burr left by the punch or drill is a potential stress raiser and must be removed before the aircraft is put into service.
+
+All large holes and lightening holes in all ribs are now clean and deburred.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Photos:**
+
+![HS ribs with lightening holes laid out on the bench](assets/images/2026-09-09/hs-ribs-largeholes-overview.jpg)  
+*Horizontal Stabilizer ribs laid out on the bench showing the large lightening holes to be deburred.*
+
+![Deburring the lightening holes by hand](assets/images/2026-09-09/hs-ribs-largeholes-deburring.jpg)  
+*Deburring the large holes by hand — each hole edge worked to remove the burr left by the punch.*
+
+![Ribs complete after large-hole deburring](assets/images/2026-09-09/hs-ribs-largeholes-complete.jpg)  
+*All ribs complete. Lightening holes and large drill holes in all ribs deburred and clean.*
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
