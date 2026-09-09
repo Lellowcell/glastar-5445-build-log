@@ -226,4 +226,30 @@ The prismatic auto level provides the kind of repeatable precision that a spirit
 
 ---
 
+### 2026-09-09 — Horizontal Stabilizer ribs: squareness check and deburring
+
+**Section:** Horizontal Stabilizer — Parts Preparation  
+**Time Spent:** 15:30–17:30 (2 hours)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Rib Squareness Check**  
+All Horizontal Stabilizer ribs checked to confirm flanges are square (normal) to the webs, and that the webs are flat. This is a critical pre-build check — ribs that are twisted or have flanges out of square will cause downstream fitment problems when the assembly is closed up. All ribs passed inspection and are confirmed flat and square.
+
+**Deburring**  
+All holes in all Horizontal Stabilizer ribs deburred. Deburring removes the sharp raised lip left by the drill, which would otherwise act as a stress raiser and potential crack initiator around each rivet hole over the life of the aircraft. All holes now clean and ready for the next stage of preparation.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Photos:**
+
+![Horizontal Stabilizer ribs laid out for inspection](assets/images/2026-09-09/hs-ribs-inspection.jpg)  
+*Horizontal Stabilizer ribs laid out on the bench. The lightening holes are clearly visible. Straightedge and file in the foreground.*
+
+![Ribs ready after deburring](assets/images/2026-09-09/hs-ribs-deburring.jpg)  
+*Ribs after squareness check and deburring. All flanges confirmed square to webs; all holes deburred and clean.*
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
