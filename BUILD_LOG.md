@@ -195,4 +195,35 @@ Removed all Horizontal Stabilizer ribs from their blister packs. All ribs inspec
 
 ---
 
+### 2026-09-09 — Workshop bench bolting and levelling
+
+**Section:** Workshop / Build Lab Setup  
+**Time Spent:** 11:00–13:00 (2 hours)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Bench Bolting**  
+Bolted the workshop benches together to create a single continuous work surface. The benches were joined and fastened down, forming the main assembly bench that will be used throughout the Glastar build.
+
+**Precision Levelling**  
+Used an old prismatic auto level (surveying instrument on a tripod) to level the connected bench run across its full length of 10 feet 2 inches (approximately 3.1 metres). The bench was levelled to within 0.5 mm across the entire span — a precision result that will be important for accurate assembly work.
+
+The prismatic auto level provides the kind of repeatable precision that a spirit level cannot, making it well-suited for establishing a reliable flat reference surface for aircraft construction.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Photos:**
+
+![Bolting the benches together](assets/images/2026-09-09/bench-assembly-bolting.jpg)  
+*Bolting the benches together into a single continuous work surface.*
+
+![Prismatic auto level set up on the lawn](assets/images/2026-09-09/auto-level-setup.jpg)  
+*The old prismatic auto level on its tripod, set up to take readings across the bench span.*
+
+![Bench levelling in progress](assets/images/2026-09-09/bench-leveling-in-progress.jpg)  
+*Taking level readings. The bench was brought to within 0.5 mm across 10' 2" of bench run.*
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
