@@ -288,8 +288,8 @@ All large holes and lightening holes in all ribs are now clean and deburred.
 
 **Work Performed:**
 
-**Rib Flange Edge Deburring**  
-Deburred the flange edges on all Horizontal Stabilizer ribs. The previous sessions had addressed all rivet holes and lightening holes; this session completed the rib prep by working along the full length of each flange edge to remove any burrs left from the factory blanking and forming process. Smooth flange edges are important for good skin contact and to prevent any sharp edges from working against the skin surface over the life of the aircraft.
+**Rib Flange Edge Deburring — In Progress**  
+Commenced deburring the flange edges on the Horizontal Stabilizer ribs. All rivet holes and lightening holes were addressed in previous sessions; this session began the flange edge work, completing approximately 25% of the ribs. Work continues in the next session.
 
 **Assistance Received:** None — all work performed by builder.
 
