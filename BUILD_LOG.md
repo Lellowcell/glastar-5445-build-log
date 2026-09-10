@@ -299,4 +299,26 @@ Commenced deburring the flange edges on the Horizontal Stabilizer ribs. All rive
 
 ---
 
+### 2026-09-10 — Horizontal Stabilizer ribs: flange edge deburring continued / bench grinder failure
+
+**Section:** Horizontal Stabilizer — Parts Preparation  
+**Time Spent:** 13:00–17:00 (4 hours)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Rib Flange Edge Deburring — Continued**  
+Continued deburring flange edges on the Horizontal Stabilizer ribs using the scotchbrite wheel on the bench grinder.
+
+**Equipment Failure**  
+The bench grinder failed during this session. It had been running the scotchbrite wheel used for flange edge deburring. The failure brought the session to an early end. A replacement bench grinder will be sourced tomorrow and work will resume once it is in hand.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Log:** `Video Logs/2026/10 Sept/ATLR0001.mp4`
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
