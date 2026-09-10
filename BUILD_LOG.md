@@ -280,4 +280,23 @@ All large holes and lightening holes in all ribs are now clean and deburred.
 
 ---
 
+### 2026-09-10 — Horizontal Stabilizer ribs: continued deburring
+
+**Section:** Horizontal Stabilizer — Parts Preparation  
+**Time Spent:** 10:00–12:47 (2 hours 47 minutes)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Rib Deburring — Continued**  
+Continued deburring work on the Horizontal Stabilizer ribs. This session extended the methodical deburring process begun in the previous sessions, working through any remaining rivet holes, edges, and detail areas requiring attention.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Log:** `Video Logs/2026/10 Sept/ATLR0000.mp4`
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
