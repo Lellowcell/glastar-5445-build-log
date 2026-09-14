@@ -321,4 +321,26 @@ The bench grinder failed during this session. It had been running the scotchbrit
 
 ---
 
+### 2026-09-14 — Horizontal Stabilizer rear spar deburring complete
+
+**Section:** Horizontal Stabilizer — Parts Preparation  
+**Time Spent:** 11:00–15:00 (4 hours)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Rear Spar Deburring — Complete**  
+Completed deburring of the Horizontal Stabilizer rear spar. This session finished the spar deburring work that had been underway, clearing the way to proceed with rib flange edge deburring once tooling is back up to speed.
+
+**Bench Grinder Replacement — Tooling Note**  
+The bench grinder failed during the session of 2026-09-10. A replacement bench grinder has been sourced and purchased, however the new unit has a smaller arbor than the original — the scotchbrite wheel used for flange edge deburring does not fit the new spindle. Deburring for this session was completed by hand, which slowed the work somewhat. An arbor adapter bushing has been ordered and is expected to arrive tomorrow (2026-09-15), at which point the scotchbrite wheel will be mounted on the new grinder and normal pace will resume.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Log:** `Video Logs/2026/14 Sept/14th Sept 2026.mp4`
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
