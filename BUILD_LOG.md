@@ -343,4 +343,47 @@ The bench grinder failed during the session of 2026-09-10. A replacement bench g
 
 ---
 
+---
+
+### 2026-09-15 — Bench grinder operational / nose ribs complete / forward spar deburring
+
+**Section:** Horizontal Stabilizer — Parts Preparation  
+**Time Spent:** 11:30–19:15 (7 hours 45 minutes)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Bench Grinder — Back in Service**  
+The arbor adapter bushing ordered on 2026-09-14 was collected this morning. With the bushing fitted, the scotchbrite wheel is now correctly mounted on the replacement bench grinder and the grinder is back in full operation. Normal deburring pace resumed.
+
+**Nose Ribs — Deburring Complete**  
+Completed deburring of all Horizontal Stabilizer nose ribs. All flange edges are now clean and ready for assembly.
+
+**Parts Note — Superseded Nose Rib**  
+During this session one nose rib was identified as the older superseded version (part number 302-00009-01, stamped as 302-00009-03 REV: A). The superseded rib is approximately half an inch longer than the updated ribs. The Glastar build manual documents the modification required to bring the rib to the correct length. No replacement part is needed — the manual procedure will be followed when this rib is fitted.
+
+**Horizontal Stabilizer Forward Spar — Deburring Commenced**  
+Commenced deburring of the Horizontal Stabilizer forward spar. The majority of the spar deburring was completed during this session.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Logs:** `Video Logs/2026/15 Sept/15th Sept 2026 #1.mp4`, `Video Logs/2026/15 Sept/15th Sept 2026 #2.mp4`
+
+**Photos:**
+
+![Bench overview with HS parts laid out](assets/images/2026-09-15/hs-bench-overview-parts-laid-out.jpg)  
+*Full bench overview with the HS nose ribs and forward spar laid out. The bench grinder (with scotchbrite wheel now fitted) is operational again after the arbor adapter was collected this morning.*
+
+![Starting work on the HS forward spar](assets/images/2026-09-15/hs-forward-spar-deburring-start.jpg)  
+*Beginning work on the Horizontal Stabilizer forward spar. The full length of the spar runs along the main bench.*
+
+![Active deburring of the HS forward spar](assets/images/2026-09-15/hs-forward-spar-deburring-active.jpg)  
+*Deburring the HS forward spar. The bench grinder is visible in the background — back in service after fitting the arbor adapter.*
+
+![Nose rib deburring — close work](assets/images/2026-09-15/hs-nose-ribs-deburring-detail.jpg)  
+*Deburring the nose ribs. The row of completed nose ribs is visible on the bench alongside the forward spar.*
+
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
