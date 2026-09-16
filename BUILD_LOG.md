@@ -386,4 +386,51 @@ Commenced deburring of the Horizontal Stabilizer forward spar. The majority of t
 
 ---
 
+### 2026-09-16 — Horizontal Stabilizer forward spar and main ribs: deburring complete
+
+**Section:** Horizontal Stabilizer — Parts Preparation  
+**Time Spent:** 10:30–13:00 (2 hours 30 minutes)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Forward Spar — Deburring Complete**  
+Completed deburring of the Horizontal Stabilizer forward spar. Work on the forward spar had commenced at the end of the previous session (2026-09-15); today's session finished the job. All edges, flanges and holes are now clean and deburred.
+
+**Main Ribs — Deburring Complete**  
+Completed deburring of all Horizontal Stabilizer main ribs. All flange edges, holes and lightening holes are clean and deburred.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Logs:** `Video Logs/2026/16 Sept/16th Sept 2026 #1.mp4`, `Video Logs/2026/16 Sept/16th Sept 2026 #2.mp4`
+
+**Photos:** —
+
+---
+
+### 2026-09-16 — Horizontal Stabilizer remaining parts: deburring (Aft Attach Bracket deferred)
+
+**Section:** Horizontal Stabilizer — Parts Preparation  
+**Time Spent:** 15:00–16:30 (1 hour 30 minutes)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Remaining HS Parts — Deburring Complete (Aft Attach Bracket excepted)**  
+Completed deburring of all remaining Horizontal Stabilizer parts with the exception of the Aft Attach Bracket. The Aft Attach Bracket has lightening holes whose internal surfaces require a finer finishing pass — a small sanding wheel on a Dremel is the appropriate tool for this. Work ran short of time and this step has been deferred to the next session.
+
+**Status at end of session:**  
+All Horizontal Stabilizer parts are now fully deburred with the single exception of the Aft Attach Bracket lightening hole interiors. This is a minor remaining step and will be completed before moving to the clecoing stage.
+
+**Video Note:**  
+Video log #3 for today includes a short close-up section at the beginning showing detail work — a useful record of technique that will be continued in future sessions.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Logs:** `Video Logs/2026/16 Sept/16th Sept 2026 #3.mp4`
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
