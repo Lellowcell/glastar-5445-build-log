@@ -433,4 +433,50 @@ Video log #3 for today includes a short close-up section at the beginning showin
 
 ---
 
+### 2026-09-17 — Horizontal Stabilizer: deburring complete / ribs paired / centrelines and rivet lines marked / clecoed together
+
+**Section:** Horizontal Stabilizer — Assembly Preparation  
+**Time Spent:** 11:00–16:45 (5 hours 45 minutes)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Aft Attach Bracket — Deburring Complete**  
+The session opened by completing the one remaining deburring task deferred from 2026-09-16: the Aft Attach Bracket lightening holes. With this done, all Horizontal Stabilizer parts are now fully deburred. The deburring phase of the HS build is complete.
+
+**Ribs Paired and Numbered**  
+With deburring behind us, work moved on to assembly preparation. The nose ribs and main ribs were sorted into matched pairs — one left-hand and one right-hand rib per station — and each pair was numbered to allow them to be kept together and returned to the correct location throughout the build. This is straightforward bookkeeping that pays dividends later when the skeleton starts going together.
+
+**Centrelines Marked on Rib Flanges**  
+A centreline was marked on every rib flange. These reference marks are used during drilling and riveting to ensure each rivet is placed on the correct line relative to the rib, consistent across all stations.
+
+**Rivet Lines Marked on Spar Flanges**  
+Rivet lines were then marked along the flanges of both spars. These lines define where the rivets will pass through the spar into the ribs, and they need to be accurately marked before match drilling begins.
+
+**Clecoed Together — Ready for Match Drilling**  
+At the end of the session, the ribs and spars were clecoed together for the first time. Clecos hold the parts in their correct relative positions using the factory holes as guides while the remaining rivet holes are match drilled through the spar flanges and into the rib flanges. The Horizontal Stabilizer skeleton is now assembled and clecoed, ready for match drilling at the next session.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Log:** `Video Logs/2026/17 Sept/17th Sept 2026 #1.mp4`
+
+**Photos:**
+
+![HS ribs and parts laid out — deburring phase complete](assets/images/2026-09-17/hs-deburring-complete.jpg)  
+*All Horizontal Stabilizer parts laid out on the bench. The Aft Attach Bracket lightening holes were finished at the start of this session, completing the deburring phase entirely. Ribs, spars, and bracket fittings are visible along with the usual deburring tools.*
+
+![Pairing and numbering the ribs](assets/images/2026-09-17/hs-ribs-paired-numbered.jpg)  
+*Builder pairing nose and main ribs into matched left/right pairs and numbering each pair. The vernier caliper and marker on the bench indicate measurement and marking work underway.*
+
+![Marking centrelines on rib flanges — spars laid out](assets/images/2026-09-17/hs-centerlines-marked.jpg)  
+*The Horizontal Stabilizer forward spar is laid along the bench. Centreline marking of the rib flanges is underway — these reference lines guide consistent rivet placement at every station.*
+
+![Spar prep — cleaning before marking rivet lines](assets/images/2026-09-17/hs-spar-rivet-lines.jpg)  
+*Builder cleaning the spar surfaces with solvent and rag before marking the rivet lines on the spar flanges. Both spars are on the bench. Clean surfaces ensure the marking lines read clearly.*
+
+![HS skeleton clecoed together — ready for match drilling](assets/images/2026-09-17/hs-clecoed-assembly.jpg)  
+*The Horizontal Stabilizer skeleton clecoed together for the first time. Ribs are positioned along the spar, held in place by clecos through the factory holes. The assembly is now ready for match drilling at the next session.*
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
