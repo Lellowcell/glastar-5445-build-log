@@ -479,4 +479,46 @@ At the end of the session, the ribs and spars were clecoed together for the firs
 
 ---
 
+### 2026-09-22 — Horizontal Stabilizer: spar doubler holes drilled to #30
+
+**Section:** Horizontal Stabilizer — Forward Spar / Spar Doubler  
+**Time Spent:** 14:00–16:15 (2 hours 15 minutes)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Spar Doubler Holes — Drilled to #30**  
+Drilled the 41 holes in the spar doubler out to #30 size. The #30 drill is the step-up size following the factory pilot holes and precedes the final rivet-size pass; getting this stage right is critical to consistent hole quality and edge margin across the doubler.
+
+**Problem Solved: Keeping the Drill Normal to the Spar Web**  
+The main challenge with drilling the spar doubler is keeping the drill bit truly perpendicular (normal) to the spar web in both planes simultaneously. With a long, flat web and 41 holes to walk along, any drift in angle compounds into poorly-formed holes and potential edge distance problems.
+
+The approach taken:
+
+1. **Laser level reference line.** A laser level was set up to project a line running along the factory hole row on the spar web. This gave a precise reference line parallel to the spar centreline, visible without bending over the part and squinting at pencil marks.
+
+2. **Hardwood guide block.** A block of hardwood with clean 90-degree corners was used at each hole position. The block was placed against the laser line to draw a line *normal* to it — that is, at a true right angle to the spar centreline. Drilling along that scribed line, with the block held against the work, kept the drill bit square to the spar web in two planes for each hole.
+
+The combination of the laser reference and the hardwood block ensured consistent drill angle across all 41 holes without relying on eye estimation alone — a repeatable method that can be applied to future spar work.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Log:** `Video Logs/2026/22 Sept/22nd Sept 2026 #1.mp4`
+
+**Photos:**
+
+![Spar doubler and ribs laid out on the bench, pneumatic drill ready](assets/photos/2026-09-22/setup-laser-level.jpg)  
+*The spar with its row of lightening holes runs the length of the bench alongside the matched HS ribs. The pneumatic angle drill and coiled air hose are laid out ready for work. The bench grinder, drill press, and tool storage are visible to the left.*
+
+![Builder marking the layout prior to drilling](assets/photos/2026-09-22/hardwood-block-guide.jpg)  
+*Builder working along the spar marking normal reference lines from the laser reference. The green marker tool and straightedge in hand; the long spar doubler is visible running the full bench width.*
+
+![Active work at the bench — drilling underway](assets/photos/2026-09-22/drilling-action.jpg)  
+*Builder positioned at the bench with the spar doubler and HS rib components laid out. The rib station labels (LM 2, LM 3, LM 4) are visible — ribs have been kept in position during the spar work session.*
+
+![Deburring completed holes after drilling](assets/photos/2026-09-22/final-result.jpg)  
+*Builder at the bench grinder area cleaning up the drilled holes. Deburring immediately after drilling removes the raised lip at each hole entrance, keeping the work moving forward to the next stage.*
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
