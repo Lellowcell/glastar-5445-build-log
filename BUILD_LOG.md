@@ -521,4 +521,57 @@ The combination of the laser reference and the hardwood block ensured consistent
 
 ---
 
+### 2026-09-23 — Horizontal Stabilizer: center main rib modification (Rib B near-complete / Rib A 50%)
+
+**Section:** Horizontal Stabilizer — Center Main Ribs  
+**Time Spent:** 10:30–18:45 (8 hours 15 minutes)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Center Main Rib Modification — In Progress**  
+A long session working on the modification of the Horizontal Stabilizer center main ribs. This is a detail modification required by the Glastar build manual for the centre section ribs — the ribs at the innermost stations of the HS, which sit closest to the fuselage attachment and require additional fitting work compared to the outboard ribs.
+
+Progress at end of session:
+- **Rib B — modification nearly complete.** The majority of the required work is done; minor finishing remains.
+- **Rib A — approximately 50% complete.** Work to continue into the next session.
+
+**Method**  
+The modification involved a combination of layout and metal-removal work:
+
+- An aluminium angle extrusion was clamped along the bench as a reference fence, holding the ribs in a consistent position during work.
+- Wooden spacer strips were used to maintain consistent spacing and support the flanges during filing and trimming.
+- WD-40 used as cutting lubricant throughout the metal-removal stages.
+- Material removed using hand files, hacksaw, and aviation snips as appropriate to each stage.
+- Pneumatic drill used for hole work.
+- All cut edges and holes deburred using the bench grinder (scotchbrite wheel) and hand deburring tools.
+
+The ribs are numbered and kept at their correct stations throughout — LM5, LM6, LM7 (Left Main ribs) visible across the session, ensuring the modified geometry is applied to the correct parts.
+
+**Current Status:**  
+Rib B modification nearly complete; Rib A approximately 50% complete. Work to resume at next session to finish Rib A and complete any remaining finishing on Rib B.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Log:** `Video Logs/2026/23 Sept/23rd Sept 2026.mp4`
+
+**Photos:**
+
+![Center main ribs laid out — modification underway](assets/photos/2026-09-23/center-rib-modification-overview.jpg)  
+*Center main ribs (marked LM5, LM6) laid out along the bench with the aluminium angle reference clamped in place using bar clamps. Hand file, straightedge, and aviation snips on the bench — layout and metal removal underway. Orange clamps securing the angle fence are visible along the bench edge.*
+
+![Mid-session — WD-40, clecos, and tooling laid out](assets/photos/2026-09-23/rib-modification-tooling.jpg)  
+*Builder working along the ribs with hand tooling. WD-40 (cutting lubricant), copper clecos in the blue parts bin, and a deburring tool are on the bench. Wooden spacer strips and a line of drill bits are staged. The scotchbrite wheel on the bench grinder is visible in the background — ready for deburring between cuts.*
+
+![Pneumatic drill work on rib holes](assets/photos/2026-09-23/rib-modification-drilling.jpg)  
+*Builder using the pneumatic drill on the rib — hole-related work at this stage of the modification. WD-40 applied as cutting lubricant. The row of center main ribs with their lightening holes runs along the bench.*
+
+![Deburring at the bench grinder](assets/photos/2026-09-23/rib-deburring-bench-grinder.jpg)  
+*Builder at the bench grinder station running modified rib edges across the scotchbrite wheel. A hacksaw (yellow-handled), files, straightedge, and aviation snips are visible on the bench — evidence of the metal-removal stages completed earlier in the session. Rib LM7 is at the near end.*
+
+![End of session — ribs staged for next day](assets/photos/2026-09-23/end-of-session-ribs-staged.jpg)  
+*End-of-session overview. The center main ribs remain clecoed and clamped along the reference angle, staged for the next session. WD-40, wooden spacers, rotary tool (Dremel), hand seamer, and fastener bins are on the bench. Rib B modification is nearly complete; Rib A work will continue next session.*
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
