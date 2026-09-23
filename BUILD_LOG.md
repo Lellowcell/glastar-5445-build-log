@@ -521,35 +521,50 @@ The combination of the laser reference and the hardwood block ensured consistent
 
 ---
 
-### 2026-09-23 — Horizontal Stabilizer: center main rib modification (Rib B near-complete / Rib A 50%)
+### 2026-09-23 — Horizontal Stabilizer: center main rib modification — Step 6 (Rib B near-complete / Rib A 50%)
 
-**Section:** Horizontal Stabilizer — Center Main Ribs  
+**Section:** Horizontal Stabilizer — Center Main Ribs (Step 6, Section IV)  
 **Time Spent:** 10:30–18:45 (8 hours 15 minutes)  
 **Builder:** Peter  
 
 **Work Performed:**
 
-**Center Main Rib Modification — In Progress**  
-A long session working on the modification of the Horizontal Stabilizer center main ribs. This is a detail modification required by the Glastar build manual for the centre section ribs — the ribs at the innermost stations of the HS, which sit closest to the fuselage attachment and require additional fitting work compared to the outboard ribs.
+**Background — Why This Modification Is Required**  
+The rear forward spar doubler (part 302-00006-01) extends spanwise beyond the attachment points of Ribs A and B — the two centre-section main ribs. This means their original forward flanges, as supplied, overlap the doubler and cannot be riveted in place in the normal way. Step 6 of the Glastar build manual addresses this by replacing the original flanges with new ones cut from a kit-supplied aluminium angle stock (part 302-00012-01, "Flange, main rib").
 
-Progress at end of session:
-- **Rib B — modification nearly complete.** The majority of the required work is done; minor finishing remains.
-- **Rib A — approximately 50% complete.** Work to continue into the next session.
+**Step 6 — Procedure (Build Manual Section IV)**  
+The modification is performed in eight sub-steps:
 
-**Method**  
-The modification involved a combination of layout and metal-removal work:
+**A — Remove the original forward flanges**  
+Using aviation snips, cut the original forward flanges off both Ribs A and B right at the start of the bend radius. File the cut edges smooth and round the corners.
 
-- An aluminium angle extrusion was clamped along the bench as a reference fence, holding the ribs in a consistent position during work.
-- Wooden spacer strips were used to maintain consistent spacing and support the flanges during filing and trimming.
-- WD-40 used as cutting lubricant throughout the metal-removal stages.
-- Material removed using hand files, hacksaw, and aviation snips as appropriate to each stage.
-- Pneumatic drill used for hole work.
-- All cut edges and holes deburred using the bench grinder (scotchbrite wheel) and hand deburring tools.
+**B — Cut replacement flanges**  
+Cut two replacement flanges from the kit aluminium angle stock (302-00012-01). Each replacement flange should be approximately 2-1/4" long — roughly the same as the original flange height. One of the original cut-off flanges is used as a length guide. Edges smoothed and corners rounded after cutting.
 
-The ribs are numbered and kept at their correct stations throughout — LM5, LM6, LM7 (Left Main ribs) visible across the session, ensuring the modified geometry is applied to the correct parts.
+**C — Drill rivet holes in the rib tabs**  
+On the web of each centre rib, mark a line parallel to and 1/4" aft of the newly cut forward edge. Mark and lightly centre-punch four rivet hole locations along this line (outer holes minimum 1/4" from top and bottom edges; inner two holes equally spaced between them). Drill all four holes with a 1/16" bit.
 
-**Current Status:**  
-Rib B modification nearly complete; Rib A approximately 50% complete. Work to resume at next session to finish Rib A and complete any remaining finishing on Rib B.
+**D — Drill the centre hole through spar web and rear doubler**  
+With the front and rear spar web doublers still pinned to the forward spar, drill only the middle one of the three pre-punched spar web holes at each side through both doublers using a #40 bit. This centre hole will accept a Cleco to locate the replacement flange during subsequent steps.
+
+**E — Reassemble the spar/rib assembly**  
+Refit the main ribs between the forward and aft spars using two Clecos per rib end. Cleco Ribs A and B to the aft spar.
+
+**F — Mark centre rivet hole locations on replacement flanges**  
+Position each replacement flange with the wider face against the rib web and the narrower face tight against the rear doubler. Check for interference with the flared edge of the rib lightening hole; relieve any interference by cutting a crescent-shaped piece from the flange (minimum material removal; file smooth). Use a square to confirm the rib is perpendicular to the forward spar. Mark the centre rivet hole position on the forward face of the replacement flange through the spar web/doubler hole. Mark left and right flanges to distinguish them.
+
+**G — Drill the centre rivet holes in the replacement flanges**  
+Centre-punch the mark made in Step F and drill with a #40 bit.
+
+**H — Cleco flanges in place and drill remaining holes**  
+From the aft side of the spar, insert a Cleco through the centre hole to hold the replacement flange in position. From the forward side, drill the remaining two spar web/doubler/flange holes with a #40 bit, Clecoing after each. Then, from the outboard side of each centre rib, drill through the four 1/16" holes in the rib web with a #40 bit — a 90° drill motor is required to reach inside the spar cove. Juggle Clecos to keep them clear of the drill. After all holes are drilled, disassemble, clean and deburr all parts.
+
+**Progress at End of Session:**
+- **Rib B — modification nearly complete.** Work is substantially done; minor finishing work remains.
+- **Rib A — approximately 50% complete.** Work to continue at the next session.
+
+**Tools Used**  
+Aviation snips, hand files, hacksaw, pneumatic drill (with 1/16", #40 bits), 90° drill motor, bench grinder (scotchbrite wheel for deburring). WD-40 used as cutting lubricant throughout metal-removal stages. Wooden spacer strips used to support parts during work. Aluminium angle clamped to bench as reference fence.
 
 **Assistance Received:** None — all work performed by builder.
 
@@ -558,19 +573,19 @@ Rib B modification nearly complete; Rib A approximately 50% complete. Work to re
 **Photos:**
 
 ![Center main ribs laid out — modification underway](assets/photos/2026-09-23/center-rib-modification-overview.jpg)  
-*Center main ribs (marked LM5, LM6) laid out along the bench with the aluminium angle reference clamped in place using bar clamps. Hand file, straightedge, and aviation snips on the bench — layout and metal removal underway. Orange clamps securing the angle fence are visible along the bench edge.*
+*Center main ribs (marked LM5, LM6) laid out along the bench with the aluminium angle reference clamped in place using bar clamps. Hand file, straightedge, and aviation snips on the bench — layout and metal removal underway. The ribs visible are the center main ribs undergoing the Step 6 flange replacement modification.*
 
 ![Mid-session — WD-40, clecos, and tooling laid out](assets/photos/2026-09-23/rib-modification-tooling.jpg)  
 *Builder working along the ribs with hand tooling. WD-40 (cutting lubricant), copper clecos in the blue parts bin, and a deburring tool are on the bench. Wooden spacer strips and a line of drill bits are staged. The scotchbrite wheel on the bench grinder is visible in the background — ready for deburring between cuts.*
 
 ![Pneumatic drill work on rib holes](assets/photos/2026-09-23/rib-modification-drilling.jpg)  
-*Builder using the pneumatic drill on the rib — hole-related work at this stage of the modification. WD-40 applied as cutting lubricant. The row of center main ribs with their lightening holes runs along the bench.*
+*Builder using the pneumatic drill on the rib — drilling the rivet holes in the rib tab (sub-steps C, D, G and H). WD-40 applied as cutting lubricant. The row of center main ribs with their lightening holes runs along the bench.*
 
 ![Deburring at the bench grinder](assets/photos/2026-09-23/rib-deburring-bench-grinder.jpg)  
-*Builder at the bench grinder station running modified rib edges across the scotchbrite wheel. A hacksaw (yellow-handled), files, straightedge, and aviation snips are visible on the bench — evidence of the metal-removal stages completed earlier in the session. Rib LM7 is at the near end.*
+*Builder at the bench grinder station running modified rib edges across the scotchbrite wheel — deburring cut edges after snipping and filing. A hacksaw (yellow-handled), files, straightedge, and aviation snips are visible on the bench — evidence of the metal-removal stages completed earlier in the session.*
 
 ![End of session — ribs staged for next day](assets/photos/2026-09-23/end-of-session-ribs-staged.jpg)  
-*End-of-session overview. The center main ribs remain clecoed and clamped along the reference angle, staged for the next session. WD-40, wooden spacers, rotary tool (Dremel), hand seamer, and fastener bins are on the bench. Rib B modification is nearly complete; Rib A work will continue next session.*
+*End-of-session overview. The center main ribs remain staged on the bench. WD-40, wooden spacers, rotary tool (Dremel), hand seamer, and fastener bins are on the bench. Rib B modification is nearly complete; Rib A work will continue next session.*
 
 ---
 
