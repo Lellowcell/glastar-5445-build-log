@@ -589,4 +589,48 @@ Aviation snips, hand files, hacksaw, pneumatic drill (with 1/16", #40 bits), 90�
 
 ---
 
+---
+
+### 2026-09-24 — Horizontal Stabilizer: center main rib modification complete / disassembly / all parts deburred
+
+**Section:** Horizontal Stabilizer — Center Main Ribs (Step 6 complete) → Disassembly & Deburring  
+**Time Spent:** 10:30– (end time not recorded)  
+**Builder:** Peter  
+
+**Work Performed:**
+
+**Center Main Rib Modification — Complete**  
+Completed the Step 6 center main rib modification on both Rib A and Rib B of the Horizontal Stabilizer. Rib B had been brought close to finished at the end of the previous session (2026-09-23); Rib A was approximately 50% complete. Both modifications are now fully done. This closes out Step 6 of Section IV — a significant milestone, as the center main rib modification is one of the more involved fabrication steps in the Horizontal Stabilizer build.
+
+For full documentation of the Step 6 procedure, see the session entry dated 2026-09-23.
+
+**Disassembly**  
+With the rib modifications complete, the Horizontal Stabilizer skeleton was fully disassembled — spars and ribs separated. Disassembly is the necessary step before final edge preparation and deburring of all drilled and modified surfaces prior to priming and re-assembly.
+
+**Deburring — All Parts**  
+All Horizontal Stabilizer parts deburred following disassembly. This includes all edges, holes, and surfaces affected by the center rib modification work. All parts are now clean, deburred, and ready for the next phase.
+
+**Up Next: Fitting the Skins**  
+With all parts fully prepared and deburred, the build moves to the next major step: fitting the Horizontal Stabilizer skins. This is a significant milestone — the skeleton has been built up and prepared entirely; it is ready to be closed.
+
+**Assistance Received:** None — all work performed by builder.
+
+**Video Log:** `Video Logs/2026/24 Sept/24th Sept 2026.mp4`
+
+**Photos:**
+
+![Workbench overview — assembly laid out](assets/photos/2026-09-24/hs-ribs-ab-workspace-overview.jpg)  
+*Full bench overview showing the Horizontal Stabilizer assembly laid out. The long spar with lightening holes runs the full bench width alongside the centre main ribs and associated tooling — WD-40, hardware bins, and drill visible in the foreground.*
+
+![Active modification work in progress](assets/photos/2026-09-24/hs-ribs-ab-active-modification.jpg)  
+*Builder working on the centre main rib modification with hand tools. Files, straightedge, and hardware laid out on the bench. The focus here is finishing the flange replacement work on one of the centre ribs.*
+
+![Deburring modified parts](assets/photos/2026-09-24/hs-ribs-ab-deburring-parts.jpg)  
+*Builder handling and finishing a rib bracket — deburring modified surfaces and edges following disassembly. Close detail on the part in hand with the spar visible in the foreground.*
+
+![Completed rib parts in a row](assets/photos/2026-09-24/hs-ribs-ab-completed-parts-row.jpg)  
+*A row of Horizontal Stabilizer rib brackets laid out on the bench after deburring — a satisfying end-of-session progress shot showing the parts fully prepared and ready for skin fitting.*
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
