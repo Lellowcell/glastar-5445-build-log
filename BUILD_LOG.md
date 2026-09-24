@@ -594,7 +594,7 @@ Aviation snips, hand files, hacksaw, pneumatic drill (with 1/16", #40 bits), 90�
 ### 2026-09-24 — Horizontal Stabilizer: center main rib modification complete / disassembly / all parts deburred
 
 **Section:** Horizontal Stabilizer — Center Main Ribs (Step 6 complete) → Disassembly & Deburring  
-**Time Spent:** 10:30– (end time not recorded)  
+**Time Spent:** 10:30–18:30 (8 hours)  
 **Builder:** Peter  
 
 **Work Performed:**
