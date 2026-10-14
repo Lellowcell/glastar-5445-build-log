@@ -633,4 +633,34 @@ With all parts fully prepared and deburred, the build moves to the next major st
 
 ---
 
+### 2026-10-14 — Horizontal Stabilizer: skin fitting stalled — Service Bulletin SB30
+
+**Section:** Horizontal Stabilizer — Skin Fitting (Stalled)  
+**Time Spent:** Multiple sessions over approximately one week  
+**Builder:** Peter  
+
+**Situation:**
+
+**Skin Fitting — Issue Identified**  
+Following completion of skeleton assembly and all preparatory work, build work moved to fitting the Horizontal Stabilizer skins. During this process it became apparent that the right HS skin did not fit correctly. Approximately one week was spent investigating the problem — including posting on build forums and consulting other builders — without a clear resolution.
+
+**Service Bulletin SB30 — Root Cause**  
+A targeted web search eventually turned up Service Bulletin SB30 (Stoddard-Hamilton / Glasair). The bulletin documents a small production run of incorrectly manufactured right Horizontal Stabilizer skins — specifically, a batch of 25 skins that passed quality inspection and were shipped to builders with the bend in the wrong location. Kit #5445 was confirmed to be one of the 25 affected kits.
+
+The drill holes in the affected skin are correct. The fault is the position of the bend only.
+
+**Remediation Plan**  
+- The maintenance shop at Bankstown Airport has been engaged to source replacement material in the correct skin thickness and to apply the correct bend profile.
+- The original (incorrect) skin will be used to mark and transfer all drill hole positions to the replacement before bending — the hole layout is accurate and reusable.
+- Once the correctly-bent replacement skin is in hand, skin fitting work can resume.
+
+**Current Status: STALLED — awaiting parts**  
+The Bankstown maintenance shop does not currently have the correct skin thickness in stock. Build work on the Horizontal Stabilizer is paused pending delivery of the replacement material. The skeleton and all other HS parts are fully prepared and waiting.
+
+**Assistance Received:** None — investigation, diagnosis, and remediation plan developed by builder. Replacement skin material to be sourced and bent by the Bankstown Airport maintenance shop (outside fabrication; all drilling and assembly to be performed by builder).
+
+**Photos:** —
+
+---
+
 _Log entries added each build session. Photos selected from daily photo folder and embedded below each entry._
